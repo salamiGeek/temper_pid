@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "max6675.h": "c",
+        "main.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.insertSpaces": false
+}
